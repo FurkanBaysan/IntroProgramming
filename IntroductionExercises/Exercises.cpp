@@ -33,7 +33,6 @@ int main() {
 	*/
 
 	int a, b, c;
-
 	cout << "Please enter the values of a, b and c variables:" << endl;
 
 	cout << "a:";
