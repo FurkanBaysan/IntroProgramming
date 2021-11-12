@@ -17,7 +17,6 @@ int main() {
 
 	cout << "Please enter your date of birth :";
 	cin >> dateofBirth;
-
 	cout << endl;
 
 	age = today - dateofBirth; // bugünün tarihinden doğum tarihi çıkartırsak yaşını buluruz.

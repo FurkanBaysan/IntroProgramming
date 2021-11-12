@@ -14,8 +14,7 @@ int main() {
 	int number2 = 5;
 	int number3, number4;
 
-	// \n -> new line and same usage can be obtained by <<endl 
-
+	// \n -> new line and same usage can be obtained by <<endl
 	cout << "number1:" << number1 << "\n" << "number2:" << number2 << "\n";
 	cout << "-----" << endl;
 
