@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
 	/*
-	* 1. Kullanıcıdan bugünün tarihini ve kaç yaşında olduğunu alarak, doğum tarihini yıl olarak bulan kodu yazınız.
+	* 1. Kullanıcıdan bugünün tarihini ve doğum tarihini alarak, yaşını yıl olarak bulan kodu yazınız.
 	*/
 
 	int today; ; // bugünün tarihi
