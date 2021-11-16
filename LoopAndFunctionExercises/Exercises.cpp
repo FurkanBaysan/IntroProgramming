@@ -110,13 +110,16 @@ int main() {
 	int checkNumber = 1;
 	int sonuc = 0;
 	for (int i = 2; i <= 100; i++) {
+
 		bool flag = 0;
+
 		for (int checkNumber = 2; checkNumber <= i - 1; checkNumber++) {
 			if (i % checkNumber == 0) {
 				flag = 1;
 				break;
 			}
 		}
+
 		if (flag == 0) {
 			cout << i << endl;
 			sonuc = sonuc + i;
