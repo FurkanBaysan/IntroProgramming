@@ -55,7 +55,6 @@ int main() {
 	printFibonacciRegardlessOfSize(dimension);
 	printFirstNPrimeNumbers();
 
-
 	return 0;
 }
 
