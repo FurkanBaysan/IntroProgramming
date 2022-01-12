@@ -53,7 +53,7 @@ int main() {
 	cout << "Please enter the first Number:";
 	cin >> firstNumber;
 	cout << endl;
-	cout << "Please enter the second Number:" << endl;
+	cout << "Please enter the second Number:";
 	cin >> secondNumber;
 
 
